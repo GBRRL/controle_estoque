@@ -20,12 +20,3 @@ Sistema simples de controle de estoque desenvolvido em Python com o objetivo de 
 
 ```bash
 python controle_estoque.py
-
-## Objetivo do projeto
-
-Este projeto foi desenvolvido com o objetivo de praticar programação em Python, lógica de desenvolvimento e organização de código.
-
-## Autor
-
-Gabriel Reliquias  
-LinkedIn: https://www.linkedin.com/in/gabrielreliquias/
